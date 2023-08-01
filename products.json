@@ -1,0 +1,50 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"galaxy S244",
+        "price":160,
+        "feature":true,
+        "company":"samsung"
+    },
+    {
+        "name":"latitude",
+        "price":190,
+        "feature":true,
+        "company":"dell"
+    },
+    {
+        "name":"latitude 2",
+        "price":190,
+        "feature":true,
+        "company":"dell"
+    },
+    {
+        "name":"iphone 2",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"galaxy S244 2",
+        "price":160,
+        "feature":true,
+        "company":"samsung"
+    },
+    {
+        "name":"latitude 3",
+        "price":1900,
+        "feature":true,
+        "company":"dell"
+    },
+    {
+        "name":"latitude 4",
+        "price":190,
+        "feature":true,
+        "company":"dell"
+    }
+]
